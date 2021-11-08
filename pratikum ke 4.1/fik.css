@@ -1,0 +1,66 @@
+.no1 {
+  display: flex;
+  margin-top: 1mm;
+}
+
+.field {
+  padding: 4mm;
+  background-color: aquamarine;
+}
+
+.no2 {
+  display: block;
+  padding-left: 2%;
+  padding-top: 3%;
+}
+
+.no3 {
+  text-align: justify;
+  padding-top: 3%;
+  padding-left: 2%;
+  font-size: 6mm;
+}
+
+.no4 {
+  padding-top: 20%;
+  margin-left: 13em;
+  font-size: 6mm;
+  padding-left: 0%;
+}
+
+.no5 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 6mm;
+  padding-top: 3%;
+  padding-left: 2%;
+  padding-right: 0%;
+}
+
+.no6 {
+  display: flex;
+  padding-left: 5%;
+  padding-top: 3%;
+}
+
+.no8 {
+  padding-right: 5%;
+}
+
+.row ::after {
+  display: table;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 30%;
+  padding-left: 0%;
+  padding-top: 0%;
+  padding-right: 0%;
+}
+
+.no7 {
+  margin-right: 5%;
+  padding-left: 5%;
+  padding-right: 10%;
+}

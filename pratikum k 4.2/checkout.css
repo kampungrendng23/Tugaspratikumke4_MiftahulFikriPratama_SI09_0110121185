@@ -1,0 +1,191 @@
+.no1 {
+    display: flex;
+          align-items: center;
+          padding: 10px;
+          border-bottom: 1px solid black;
+          background-color: rgb(162, 170, 166);
+}
+
+.no2 {
+    list-style: square
+}
+
+.no3 {
+    list-style-type: none;
+            gap: 10px;
+            display: flex;
+            align-items: center;
+}
+
+.no4 {
+    text-decoration: none
+}
+
+.no5 {
+    list-style-type: none;
+            display: flex;
+            margin-left: auto;
+            gap: 20px;
+            text-decoration: none;
+            align-items: center;
+}
+
+.no6 {
+    display: flex; align-items: center; gap: 20px
+}
+
+.no7 {
+    text-decoration: none
+}
+
+.no8 {
+    display: flex; gap: 20px; margin-top: 100px; padding: 10px
+}
+
+.no9 {
+    width: 65%; align-items: center; gap: 10px
+}
+
+.no10 {
+    display: flex; align-items: center; gap: 10px
+}
+
+.no11 {
+    padding: 0; margin: 0
+}
+
+.no12 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+.no13 {
+    padding-left: 35px
+}
+
+.no14 {
+    border-collapse: collapse
+}
+
+.no15 {
+    list-style-type: none
+}
+
+.no16 {
+    list-style-type: none
+}
+
+.no17 {
+    list-style-type: none
+}
+
+.no18 {
+    list-style-type: none
+}
+
+.no19 {
+    border-bottom: 1px solid black
+}
+
+.no20 {
+    width: 35%;
+    background-color: gray;
+    padding: 10px;
+    display: grid;
+    align-items: center;
+}
+
+.no21 {
+    margin: 0; padding: 10px
+}
+
+.no22 {
+    width: 100%; padding: 10px; border-collapse: collapse
+}
+
+.no23 {
+    padding: 15px 0
+}
+
+.no24 {
+    padding: 15px 0
+}
+
+.no25 {
+    padding: 15px 0
+}
+
+.no26 {
+    padding-left: 15px;
+    padding-top: 10px;
+    border-top: 1px solid white;
+}
+
+.no27 {
+    border-top: 1px solid white
+}
+
+.no28 {
+    display: flex; gap: 7px; margin-bottom: 12px
+}
+
+.no29 {
+    background-color: rgb(94, 90, 86); background-size: 40px
+}
+
+.no30 {
+    width: 100%; border-collapse: collapse
+}
+
+.no31 {
+    padding: 15px 0; border-top: solid 1px white
+}
+
+.no32 {
+    padding: 15px 0;
+    text-align: right;
+    border-top: solid 1px white;
+}
+
+.no33 {
+    margin-top: 100px;
+    border-top: 1px solid black;
+    padding: 10px;
+    display: grid;
+    gap: 20px;
+}
+
+.no34 {
+    
+    display: flex; justify-content: space-between
+}
+
+.no35 {
+    text-decoration: none; gap: 50px
+}
+
+.no36 {
+    display: flex; margin-left: auto
+}
+
+.no37 {
+    display: flex; justify-content: space-between
+}
+
+.no38 {
+    display: flex; justify-content: center
+}
+
+.no39 {
+    display: flex; background-size: 20px; align-items: center
+}
+
+.no40 {
+    font-weight: bolder
+}
+
+.no41 {
+    background-color: rgb(94, 90, 86); background-size: 40px
+}
